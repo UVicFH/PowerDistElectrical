@@ -39,13 +39,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=RPD_lower.PcbDoc
+DocumentPath=HighCurrentSwitch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -53,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OIRKFPUQ
+DocumentUniqueId=ASGTTUMT
 
 [Document2]
-DocumentPath=LowCurrentSwitch.SchDoc
+DocumentPath=RearPowerLower.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BQRABILI
+DocumentUniqueId=XGNOGAUS
 
 [Document3]
 DocumentPath=Controller.SchDoc
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VLYCEBIL
 
 [Document4]
-DocumentPath=RearPowerLower.SchDoc
+DocumentPath=LowCurrentSwitch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,10 +104,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XGNOGAUS
+DocumentUniqueId=BQRABILI
 
 [Document5]
-DocumentPath=..\..\..\..\Google Drive\Electrical\2016-2017\Rear Power Distribution\Altium Libraries\CANduino_gyro.PcbLib
+DocumentPath=RPD_lower.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OIRKFPUQ
+
+[Document6]
+DocumentPath=..\..\HybridLibrarieswc\trunk\CANduino_gyro.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNHMOHUG
 
-[Document6]
+[Document7]
 DocumentPath=..\..\HybridLibrarieswc\trunk\footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAMDKOUQ
 
-[Document7]
+[Document8]
 DocumentPath=..\..\HybridLibrarieswc\trunk\HybridFootprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWGXIWWS
 
-[Document8]
+[Document9]
 DocumentPath=..\..\HybridLibrarieswc\trunk\UVICHyrbidLibrary (1).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSQMYEJW
 
-[Document9]
+[Document10]
 DocumentPath=..\..\HybridLibrarieswc\trunk\UVICHybridLibrary.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,8 +208,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOOOLLGF
 
-[Document10]
-DocumentPath=..\..\..\..\Google Drive\Electrical\2016-2017\Rear Power Distribution\Altium Libraries\CANduino_gyro.SchLib
+[Document11]
+DocumentPath=..\..\HybridLibrarieswc\trunk\CANduino_gyro.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
