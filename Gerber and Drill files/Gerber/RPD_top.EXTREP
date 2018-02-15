@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: RPD_top.GBR   2018-02-14  9:05:23 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTO                Top Overlay                             
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GPB                Bottom Pad Master                       
+.GTS                Top Solder                              
+.GPT                Top Pad Master                          
+.GBL                Bottom Layer                            
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM3                Mechanical 3                            
+.GM5                Mechanical 5                            
+.GM2                Mechanical 2                            
+.GM6                Mechanical 6                            
+.GM10               Mechanical 10                           
+.GM8                Mechanical 8                            
+.GM13               Mechanical 13                           
+.GM7                Mechanical 7                            
+.GM11               Mechanical 11                           
+.GM4                Mechanical 4                            
+.GM12               Mechanical 12                           
+.GM14               Mechanical 14                           
+.GM9                Mechanical 9                            
+.GM16               Mechanical 16                           
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------
