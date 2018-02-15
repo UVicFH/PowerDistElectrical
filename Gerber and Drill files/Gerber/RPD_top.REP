@@ -2,6 +2,74 @@
 FileName = RPD_top.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 13
+      File : RPD_top.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RPD_top.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RPD_top.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RPD_top.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : RPD_top.GBL
 
@@ -35,166 +103,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 11
-      File : RPD_top.GM11
-
-    Adding Layer      : Mechanical 11
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 6
-      File : RPD_top.GM6
-
-    Adding Layer      : Mechanical 6
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : RPD_top.GM3
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : RPD_top.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : RPD_top.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 14
-      File : RPD_top.GM14
-
-    Adding Layer      : Mechanical 14
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 5
-      File : RPD_top.GM5
-
-    Adding Layer      : Mechanical 5
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 7
-      File : RPD_top.GM7
-
-    Adding Layer      : Mechanical 7
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : RPD_top.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 9
-      File : RPD_top.GM9
-
-    Adding Layer      : Mechanical 9
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 2
-      File : RPD_top.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Keep-Out Layer
       File : RPD_top.GKO
 
@@ -205,16 +113,6 @@ Used DCodes :
     D11
     D75
     D76
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : RPD_top.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -243,38 +141,6 @@ Used DCodes :
     D43
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : RPD_top.GM16
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : RPD_top.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D72
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 10
-      File : RPD_top.GM10
-
-    Adding Layer      : Mechanical 10
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -327,13 +193,48 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 8
-      File : RPD_top.GM8
+Generating : Top Layer
+      File : RPD_top.GTL
 
-    Adding Layer      : Mechanical 8
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
 *************************************************************
 
 *************************************************************
@@ -362,49 +263,6 @@ Used DCodes :
     D11
     D12
     D13
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : RPD_top.GM4
-
-    Adding Layer      : Mechanical 4
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : RPD_top.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 12
-      File : RPD_top.GM12
-
-    Adding Layer      : Mechanical 12
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -437,5 +295,17 @@ Used DCodes :
     D65
     D66
     D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : RPD_top.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D71
 *************************************************************
 
