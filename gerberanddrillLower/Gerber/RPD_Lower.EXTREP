@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: RPD_Lower.GBR   2018-02-19  8:22:49 PM
+Gerber File Extension Report For: RPD_Lower.GBR   2018-02-20  11:58:53 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,16 +7,16 @@ Gerber File Extension Report For: RPD_Lower.GBR   2018-02-19  8:22:49 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
-.GBL                Bottom Layer                            
 .GTP                Top Paste                               
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
-.GTO                Top Overlay                             
+.GPT                Top Pad Master                          
 .GTS                Top Solder                              
+.GBL                Bottom Layer                            
 .GBO                Bottom Overlay                          
+.GTO                Top Overlay                             
 .GKO                Keep-Out Layer                          
+.GBP                Bottom Paste                            
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
