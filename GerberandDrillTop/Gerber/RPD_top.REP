@@ -2,15 +2,27 @@
 FileName = RPD_top.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : RPD_top.GM1
+Generating : Mechanical 15
+      File : RPD_top.GM15
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D12
-    D71
+    D73
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : RPD_top.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D73
+    D74
 *************************************************************
 
 *************************************************************
@@ -22,22 +34,64 @@ Generating : Keep-Out Layer
 
 Used DCodes :
     D12
-    D75
     D76
+    D77
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : RPD_top.GTO
+Generating : Bottom Pad Master
+      File : RPD_top.GPB
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : RPD_top.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D47
+    D48
+    D50
+    D51
+    D52
+    D55
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
 *************************************************************
 
 *************************************************************
@@ -83,13 +137,14 @@ Used DCodes :
     D67
     D68
     D69
+    D70
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : RPD_top.GBP
+Generating : Bottom Solder
+      File : RPD_top.GBS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -97,6 +152,20 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
 *************************************************************
 
 *************************************************************
@@ -137,6 +206,28 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 1
+      File : RPD_top.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RPD_top.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Paste
       File : RPD_top.GTP
 
@@ -160,8 +251,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : RPD_top.GBL
+Generating : Bottom Paste
+      File : RPD_top.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -169,26 +262,20 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D47
-    D48
-    D50
-    D51
-    D54
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RPD_top.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -210,7 +297,6 @@ Used DCodes :
     D20
     D21
     D22
-    D57
     D58
     D59
     D60
@@ -221,90 +307,6 @@ Used DCodes :
     D65
     D66
     D67
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : RPD_top.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D72
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : RPD_top.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : RPD_top.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : RPD_top.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : RPD_top.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D72
-    D73
+    D68
 *************************************************************
 
