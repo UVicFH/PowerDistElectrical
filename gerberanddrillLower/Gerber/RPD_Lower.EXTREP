@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: RPD_Lower.GBR   2018-02-20  11:58:53 PM
+Gerber File Extension Report For: RPD_Lower.GBR   2018-02-27  9:47:20 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,17 +7,17 @@ Gerber File Extension Report For: RPD_Lower.GBR   2018-02-20  11:58:53 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GPB                Bottom Pad Master                       
-.GTP                Top Paste                               
-.GBS                Bottom Solder                           
-.GPT                Top Pad Master                          
 .GTS                Top Solder                              
-.GBL                Bottom Layer                            
-.GBO                Bottom Overlay                          
+.GPT                Top Pad Master                          
 .GTO                Top Overlay                             
-.GKO                Keep-Out Layer                          
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GPB                Bottom Pad Master                       
+.GBL                Bottom Layer                            
 .GBP                Bottom Paste                            
-.GM1                Mechanical 1                            
-.GM13               Mechanical 13                           
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
 .GM15               Mechanical 15                           
+.GM13               Mechanical 13                           
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------

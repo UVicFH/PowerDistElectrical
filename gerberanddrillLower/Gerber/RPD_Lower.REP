@@ -11,7 +11,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
+    D10
     D16
     D17
     D18
@@ -61,17 +61,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : RPD_Lower.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D100
-*************************************************************
-
-*************************************************************
 Generating : Bottom Layer
       File : RPD_Lower.GBL
 
@@ -81,12 +70,12 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
+    D10
     D82
     D83
-    D84
     D85
-    D86
+    D87
+    D89
     D91
     D92
     D93
@@ -99,14 +88,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : RPD_Lower.GBP
+Generating : Mechanical 13
+      File : RPD_Lower.GM13
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Mechanical 13
 
-    Adding Layer      : Bottom Layer
 
-    Adding Layer      : Multi-Layer
+Used DCodes :
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RPD_Lower.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
@@ -132,18 +128,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : RPD_Lower.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D100
-    D101
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 1
       File : RPD_Lower.GM1
 
@@ -155,21 +139,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : RPD_Lower.GKO
+Generating : Bottom Paste
+      File : RPD_Lower.GBP
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Paste
 
+    Adding Layer      : Bottom Layer
 
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : RPD_Lower.GBO
-
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -197,6 +174,17 @@ Used DCodes :
     D79
     D80
     D81
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : RPD_Lower.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D15
 *************************************************************
 
 *************************************************************
@@ -307,6 +295,18 @@ Used DCodes :
     D13
     D14
     D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : RPD_Lower.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D100
+    D101
 *************************************************************
 
 *************************************************************
